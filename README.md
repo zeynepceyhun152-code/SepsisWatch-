@@ -2,7 +2,7 @@
 
 **AI-powered sepsis prediction 6 hours before clinical onset — with strict pre-onset evaluation.**
 
-> Built for Creator Colosseum Startup Competition 2026 | by Zeynep
+> Built for Creator Colosseum Startup Competition 2026 | by Zeynep Ceyhun
 
 ---
 
@@ -57,13 +57,13 @@ The key difference: **honest evaluation**. Most sepsis AI tools (including Epic'
 
 Open in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1w_effgy54QvJ93RBrL2L916brJA-rSSf?usp=sharing)
+https://colab.research.google.com/drive/1w_effgy54QvJ93RBrL2L916brJA-rSSf?usp=sharing
 
 Or clone and run locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sepsiswatch.git
-cd sepsiswatch
+git clone https://github.com/zeynepceyhun152-code/SepsisWatch-.git
+cd SepsisWatch-
 pip install -r requirements.txt
 jupyter notebook sepsiswatch.ipynb
 ```
@@ -92,7 +92,7 @@ jupyter notebook sepsiswatch.ipynb
 
 ## About
 
-Built by **Zeynep** — 15-year-old AI/ML researcher from Turkey, incoming student at Thomas Jefferson School (Missouri). Research intern at DAYTAM since 2023. USAII Global AI Hackathon 2026: 3rd place (320+ teams). TEKNOFEST 2025: 3rd place internationally in AI in Health.
+Built by **Zeynep Ceyhun** — 16-year-old AI/ML researcher, student @ Thomas Jefferson School. 
 
 I've been afraid of hospitals since I was a kid. That's why I build AI for healthcare.
 
